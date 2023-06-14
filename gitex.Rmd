@@ -1,0 +1,17 @@
+---
+title: "git.ex"
+author: "Olivia Olivo"
+date: "6/13/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+x <- 1
+y <- 1
+plot(x,y)
+
+```
